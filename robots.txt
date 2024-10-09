@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap : https://pitubabovupo.pages.dev/sitemap.xml
